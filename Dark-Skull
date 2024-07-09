@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+	Dark-Skull Project
+</title>
+	<body bgcolor="#000" background="c:\Users\Yevh_RV\Videos\SCP  Secret Laboratory\4324.png">
+	background-repeat: no-repeat;
+	background-size: cover;
+</body>
+<div style="width: 40%; height:15px;"></div>
+	<h1 style="position: relative;text-align: center; color:rgb(63, 14, 108);">Добро пожаловать!</h1> 
+<div style="width: 40%; height:100px;"></div>
+	<h2 style="position: relative;text-align: center; color:rgb(63, 14, 108);">Dark-Skull Project</h2> 
+	<img scr="c:\Users\Yevh_RV\Videos\SCP  Secret Laboratory\2024-07-09_161548.jpg">
+<a style="position: relative; left: 43.5%; height: 10%;" href="https://discord.gg/jEmvgsbJ">
+	<img transform:scale(1.5); src="c:\Users\Yevh_RV\Videos\SCP  Secret Laboratory\2024-07-09_161548.jpg" width="312" height="27" width="312">
+</a>
+<div style="width: 40%; height:15px;"></div>
+	<img transform:scale(1.5); scr="src=c:\Users\Yevh_RV\Videos\SCP  Secret Laboratory\2024-07-09_165315.png">
+<a style="position: relative; left: 43.5%; height: 10%;" href="https://destream.net/live/POMIDORKA/donate">
+	<img src="c:\Users\Yevh_RV\Videos\SCP  Secret Laboratory\2024-07-09_165315.png" width="312" height="27" width="312">
+</a>
+</body>
